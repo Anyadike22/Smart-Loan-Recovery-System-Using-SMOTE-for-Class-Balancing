@@ -77,7 +77,7 @@ Medium Risk: Offer payment restructuring.
 
 High Risk: Legal action or debt selling.
 
-# Step 8: Deployment with Flask
+# Step 8: Backend with Flask
 Create an API endpoint for predictions
 
 # Step 9: Frontend Integration
