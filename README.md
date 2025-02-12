@@ -1,1 +1,2 @@
-# Smart-Loan-Recovery-System-Using-SMOTE-for-Class-Balancingem-Using-SMOTE-
+# Smart-Loan-Recovery-System-Using-SMOTE-for-Class-Balancing
+
